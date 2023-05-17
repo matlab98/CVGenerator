@@ -21,16 +21,16 @@ namespace CVDynamicGenerator.WebApi.Business.ApplicationService
 {
     public class GService : IGService
     {
-        private static string pathTemplate = System.IO.Path.GetFullPath("~/App_Data/pdf/Manual.pdf").Replace("\\~", "");
-        private static string ttfLight = System.IO.Path.GetFullPath("~/App_SetUp/Oswald-Light.ttf").Replace("\\~", "");
+        private readonly string pathTemplate;
+        private readonly string ttfLight;
 
-        private static string ttfMedium = System.IO.Path.GetFullPath("~/App_SetUp/Oswald-Medium.ttf").Replace("\\~", "");
+        private readonly string ttfMedium;
 
-        private static string ttfRegular = System.IO.Path.GetFullPath("~/App_SetUp/Oswald-Regular.ttf").Replace("\\~", "");
+        private readonly string ttfRegular;
 
-        private static PdfFont light = PdfFontFactory.CreateFont(ttfLight);
-        private static PdfFont regular = PdfFontFactory.CreateFont(ttfRegular);
-        private static PdfFont medium = PdfFontFactory.CreateFont(ttfMedium);
+        private readonly PdfFont light;
+        private static PdfFont regular;
+        private static PdfFont medium;
 
         private static float headerName = 34;
         private static float subHeader = 22;
@@ -41,6 +41,13 @@ namespace CVDynamicGenerator.WebApi.Business.ApplicationService
 
         public GService()
         {
+            pathTemplate = System.IO.Path.GetFullPath("App_Data/pdf/Manual.pdf");
+            ttfLight = System.IO.Path.GetFullPath("App_SetUp/Oswald-Light.ttf");
+            ttfMedium = System.IO.Path.GetFullPath("App_SetUp/Oswald-Medium.ttf");
+            ttfRegular = System.IO.Path.GetFullPath("App_SetUp/Oswald-Regular.ttf");
+            light = PdfFontFactory.CreateFont(ttfLight);
+            regular = PdfFontFactory.CreateFont(ttfRegular);
+            medium = PdfFontFactory.CreateFont(ttfMedium);
         }
 
         public async Task<DefaultResponse> CVGenerator(DefaultRequest request)
@@ -111,7 +118,7 @@ namespace CVDynamicGenerator.WebApi.Business.ApplicationService
             {
                 Link link = new Link(links.name,
                 PdfAction.CreateURI(links.liga));
-                document2.Add(new Paragraph().Add(iconImage("https://img.icons8.com/ios-filled/100/FFFFFF/chain.png", "")).Add(" ").Add(link.SetFontSize(body).SetFont(medium).SetFontColor(ColorConstants.WHITE)).SetFixedLeading(body + 5));
+                document2.Add(new Paragraph().Add(iconImage("https://img.icons8.com/ios-filled/100/FFFFFF/chain.png", "")).Add(" ").Add(link.SetFontSize(body).SetFont(medium).SetFontColor(ColorConstants.WHITE)).SetFixedLeading(body));
             }
 
             document2.Add(sectionTitle("Skills").SetFontColor(ColorConstants.WHITE));
@@ -218,19 +225,19 @@ namespace CVDynamicGenerator.WebApi.Business.ApplicationService
         public Paragraph bodyInfo(string text)
         {
             return new Paragraph(text)
-                .SetTextAlignment(TextAlignment.JUSTIFIED).SetWidth(340)
+                .SetTextAlignment(TextAlignment.LEFT).SetWidth(340)
                 .SetFontSize(body).SetFont(light).SetFixedLeading(body + 5);
         }
         public Image iconImage(string url, string altText)
         {
             WebClient client = new WebClient();
             byte[] iconBytes = client.DownloadData(url);
-            return new Image(ImageDataFactory.Create(iconBytes)).ScaleAbsolute(14, 14);//iconImage.SetAlt(altText);
+            return new Image(ImageDataFactory.Create(iconBytes)).ScaleAbsolute(14, 14).SetPaddingBottom(-50);//iconImage.SetAlt(altText);
         }
         public Paragraph iconText(string url, string altText, string info)
         {
             return new Paragraph().Add(iconImage(url, altText)).Add(" ").Add(info).SetTextAlignment(TextAlignment.JUSTIFIED).SetWidth(340)
-                .SetFontSize(body).SetFont(light).SetFixedLeading(body);
+                .SetFontSize(body).SetFont(light).SetFixedLeading(body); 
         }
 
         public Paragraph star(int level, int size)
