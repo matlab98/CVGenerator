@@ -1,0 +1,91 @@
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.AssemblyReference.cache
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.AssemblyInfoInputs.cache
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.AssemblyInfo.cs
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.CoreCompileInputs.cache
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\appsettings.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.exe
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.deps.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.runtimeconfig.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\ref\CVDynamicGenerator.WebApi.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.pdb
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.barcodes.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.forms.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.io.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.kernel.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.layout.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.pdfa.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.sign.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.svg.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.commons.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\scopedcss\bundle\CVDynamicGenerator.WebApi.styles.css
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.CopyComplete
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\ref\CVDynamicGenerator.WebApi.dll
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.pdb
+D:\Project\CVDynamicGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.genruntimeconfig.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\appsettings.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.exe
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\App_Data\pdf\Manual.pdf
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\App_SetUp\Oswald-Light.ttf
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\App_SetUp\Oswald-Medium.ttf
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\App_SetUp\Oswald-Regular.ttf
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.deps.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.runtimeconfig.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\CVDynamicGenerator.WebApi.pdb
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.barcodes.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.forms.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.io.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.kernel.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.layout.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.pdfa.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.sign.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.svg.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\itext.commons.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.AssemblyReference.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.AssemblyInfoInputs.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.AssemblyInfo.cs
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.CoreCompileInputs.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.CVDynamicGenerator.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CVDynamicGenerator.WebApi.props
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CVDynamicGenerator.WebApi.props
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CVDynamicGenerator.WebApi.props
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\scopedcss\bundle\CVDynamicGenerator.WebApi.styles.css
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.csproj.CopyComplete
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\refint\CVDynamicGenerator.WebApi.dll
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.pdb
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\CVDynamicGenerator.WebApi.genruntimeconfig.cache
+D:\I + D\CVGenerator\CVDynamicGenerator.WebApi\obj\Debug\net6.0\ref\CVDynamicGenerator.WebApi.dll

@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CVDynamicGenerator/DesignTimeBuild
+/.vs/CVDynamicGenerator/v17/TestStore/0
+/.vs/CVDynamicGenerator/v17/.futdcache.v1
+/.vs/CVDynamicGenerator/project-colors.json
+/CVDynamicGenerator.WebApi/obj/release/net6.0/linux-x64
